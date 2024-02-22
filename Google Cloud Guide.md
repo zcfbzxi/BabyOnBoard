@@ -9,4 +9,10 @@
 2. Switch to the cloud platform project homepage, select the "APIs & Services" menu, and check the enabled APIs.
 ![Step2](https://raw.githubusercontent.com/zcfbzxi/BabyOnBoard/a4c9278a37b6e98e5c0546d0e2cc79853c82eaa9/10.png)
 
-3.
+3.Click
+![Step 3](https://github.com/zcfbzxi/BabyOnBoard/blob/main/3.png?raw=true)
+
+4.Name Project as your email name(without@gmail.com)
+![Step 4](https://github.com/zcfbzxi/BabyOnBoard/blob/main/5.jpg?raw=true)
+
+5.
