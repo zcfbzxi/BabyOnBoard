@@ -9,3 +9,4 @@
 2. Switch to the cloud platform project homepage, select the "APIs & Services" menu, and check the enabled APIs.
 ![Step2](https://raw.githubusercontent.com/zcfbzxi/BabyOnBoard/a4c9278a37b6e98e5c0546d0e2cc79853c82eaa9/10.png)
 
+3.
