@@ -1,6 +1,6 @@
 ﻿
 
-#Hi
+#Hi,
 ##This is the Google Cloud Guide, which can help you generate an account.
 
 1. Log in to Google Cloud Platform ([https://console.cloud.google.com/](https://console.cloud.google.com/)), and create a new project on the cloud platform."
